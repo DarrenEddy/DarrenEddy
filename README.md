@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **IOS Development Swift** 
 
-- 🍳 Fun fact **Ive Spent 6 year in the culinary industry**
+- 🍳 Fun fact **I have spent 6 year in the culinary industry**
 
 - 📧 How to reach me **darrenjeddy@gmail.com**
 
