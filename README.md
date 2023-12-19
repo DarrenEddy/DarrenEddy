@@ -8,18 +8,6 @@
 
 - 📧 How to reach me **darrenjeddy@gmail.com**
 
-
-<h3 align="left">Links</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/darren-eddy-94b180255/" target="blank"><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/darren-eddy-94b180255/" height="30" width="40" /></a>
-  <a href="https://instagram.com/darren__eddy" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="darren__eddy" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Skills</h3>
 
 <p align="left">
@@ -60,5 +48,16 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a>
-  
+</p>
+
+
+<h3 align="left">Links</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/darren-eddy-94b180255/" target="blank"><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="https://www.linkedin.com/in/darren-eddy-94b180255/" height="30" width="40" /></a>
+  <a href="https://instagram.com/darren__eddy" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="darren__eddy" height="30" width="40" /></a>
 </p>
