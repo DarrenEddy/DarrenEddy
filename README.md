@@ -1,6 +1,6 @@
 <h3 align="center">A passionate application developer based in Toronto Canada</h3>
 
-- 🎓 I've StuddieD at **York University, George Brown College**
+- 🎓 I've Studdied at **York University, George Brown College**
 
 - 🌱 I’m currently learning **IOS Development Swift** 
 
