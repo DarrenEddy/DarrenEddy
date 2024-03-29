@@ -2,7 +2,7 @@
 
 - 🎓 I've Studdied at **York University, George Brown College**
 
-- 🌱 I’m currently learning **IOS Development Swift** 
+- 🌱 I’m currently learning **React Native** 
 
 - 🍳 Fun fact **I have spent 6 year in the culinary industry**
 
